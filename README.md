@@ -1,5 +1,8 @@
 # Redux Saga Test Plan
 
+:warning: This fork is merged the [pull request #159](https://github.com/jfairbank/redux-saga-test-plan/pull/159) ahead. You will be able to use this with TypeScript.  
+Definitely types `d.ts` files are laid in `./types` folder.
+
 [![npm](https://img.shields.io/npm/v/redux-saga-test-plan.svg?style=flat-square)](https://www.npmjs.com/package/redux-saga-test-plan)
 [![Travis branch](https://img.shields.io/travis/jfairbank/redux-saga-test-plan/master.svg?style=flat-square)](https://travis-ci.org/jfairbank/redux-saga-test-plan)
 [![Codecov](https://img.shields.io/codecov/c/github/jfairbank/redux-saga-test-plan.svg?style=flat-square)](https://codecov.io/gh/jfairbank/redux-saga-test-plan)
